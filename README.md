@@ -1,6 +1,8 @@
 ### About Me
    I am a person passionate about games, and I am taking my first steps as a game developer. Since childhood, the world of games has always fascinated me, sparking my desire to create engaging and innovative experiences. I dedicate hours to studying programming and design, exploring different tools and languages that help me turn ideas into reality. I believe that each game has the power to tell a unique story and connect people from all over the world. I am determined to improve myself and contribute to this incredible industry, creating worlds that inspire and entertain.
    
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felipao2440)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-carrion/)
 
 
 
@@ -14,8 +16,6 @@
     <img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
 </div><br/>
 
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felipao2440)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-carrion/)
 
 
    
