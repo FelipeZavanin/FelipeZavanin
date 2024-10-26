@@ -3,7 +3,7 @@
    
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felipao2440)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-carrion/)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Fznzzz/)
+
 
 
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeZavanin&show_icons=true&theme=tokyonight)
