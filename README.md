@@ -9,7 +9,7 @@
 ![Felipe GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeZavanin&show_icons=true&theme=tokyonight)
 
 <div style="display: inline_block"><br/>
-    <img align="center" src="[https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white](https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png)" />
+    <img align="center" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
